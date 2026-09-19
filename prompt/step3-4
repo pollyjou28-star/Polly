@@ -1,0 +1,4 @@
+git add .
+git commit -m "step 3: 接上 Microsoft Learn 與 GitHub MCP Server"
+git pull --rebase
+git push

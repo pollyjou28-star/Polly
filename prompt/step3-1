@@ -1,0 +1,2 @@
+請在專案根目錄建立 .vscode/mcp.json,內容如下(原封不動,不要改動任何欄位):
+{ "servers": { "microsoft-learn": { "type": "http", "url": "https://learn.microsoft.com/api/mcp" } } }

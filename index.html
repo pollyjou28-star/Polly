@@ -358,8 +358,8 @@
       // 這段程式負責管理待辦清單、主題切換與篩選邏輯。
       const EMPTY_MESSAGES = {
         all: '還沒有任何待辦事項,新增一個吧!',
-        active: '沒有未完成的待辦事項',
-        completed: '還沒有已完成的待辦事項',
+        active: '目前沒有未完成的事項。若想查看已完成項目，請切換到「已完成」篩選。',
+        completed: '目前沒有已完成的事項。這個項目可能已被改成未完成，並不是被刪除。請切換回「全部」或「未完成」查看。',
       };
 
       const todoForm = document.getElementById('todo-form');

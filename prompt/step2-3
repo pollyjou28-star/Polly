@@ -1,0 +1,2 @@
+請把整個專案改寫成單一個 index.html 檔案,把所有 CSS 和 JavaScript 都內嵌進去,
+刪掉 styles.css 和 app.js,並且移除 localStorage 相關的所有程式碼。

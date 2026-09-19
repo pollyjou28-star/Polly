@@ -1,0 +1,4 @@
+git add .
+git commit -m "step 2: 加上深色模式與篩選,並練習還原"
+git pull --rebase
+git push

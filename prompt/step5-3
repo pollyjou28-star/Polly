@@ -1,0 +1,4 @@
+git add .
+git commit -m "step 5: 建立作品集,開啟 Pages,完成結業"
+git pull --rebase
+git push

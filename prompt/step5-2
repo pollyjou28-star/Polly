@@ -1,11 +1,4 @@
-請在專案根目錄建立 PORTFOLIO.md,用繁體中文寫一份專業的作品集說明,內容包含:
-
-1. 標題與一段簡介:這是在 GitHub Copilot 實戰工作坊完成的待辦清單 Web App
-2. 「線上展示」區塊:放 GitHub Pages 網址(先用 https://<你的帳號>.github.io/<你的repo名稱>/ 佔位,我會自己換掉)
-3. 「功能」區塊:條列這個 App 目前所有功能
-4. 「技術」區塊:說明使用純 HTML / CSS / 原生 JavaScript,無框架、無套件、資料存 localStorage
-5. 「開發方式」區塊:說明這個專案是如何用 GitHub Copilot Agent Mode、MCP、以及 .github/prompts 的 agentic workflow 完成的
-6. 「我學到什麼」區塊:條列三到五點
-
-請同時在 README.md 的最上方加一行連結指向 PORTFOLIO.md。
-語氣專業但不誇大,不要寫我沒做過的事。
+git add .
+git commit -m "step 5: 建立作品集,開啟 Pages,完成結業"
+git pull --rebase
+git push
